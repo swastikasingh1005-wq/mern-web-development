@@ -27,7 +27,7 @@ Laundry-Wallah/
 
 1. Clone the repository:
    
-   git clone 
+   git clone https://github.com/swastikasingh1005-wq/mern-web-development.git
 
 2. Open the project folder.
 
