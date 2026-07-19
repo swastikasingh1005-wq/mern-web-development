@@ -1,24 +1,41 @@
-# Hello World HTML
+# 🧺 Laundry Wallah
 
-This project displays "Hello World!" using HTML.
+Laundry Wallah is a simple and responsive laundry service website built using **HTML**. The website provides information about laundry services in a clean and user-friendly layout.
 
-## Files
-- index.html
-- README.md
+## ✨ Features
 
-## How to Run
+- Responsive Home Page
+- About Us Section
+- Laundry Services
+- Pricing Information
+- Contact Section
+- Clean and Simple User Interface
 
-1. Download or clone this repository.
+## 🛠️ Built With
+
+- HTML5
+
+## 📁 Project Structure
+
+```
+Laundry-Wallah/
+│── index.html
+│── README.md
+```
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   
+   git clone 
+
 2. Open the project folder.
-3. Double-click `index.html`
 
-OR
+3. Double-click **index.html** or open it in any web browser.
 
-1. Open the folder in VS Code.
-2. Install the Live Server extension.
-3. Right-click `index.html`.
-4. Click **Open with Live Server**.
+## 📌 Future Improvements
 
-The browser will display:
-
-Hello World!
+- Add CSS for better styling
+- Add JavaScript for interactivity
+- Make the website fully responsive
+- Add an online booking form
