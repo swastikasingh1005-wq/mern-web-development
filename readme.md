@@ -25,13 +25,11 @@ Laundry-Wallah/
 
 ## 🚀 How to Run
 
-1. Clone the repository:
+
    
-   git clone 
+1. Open the project folder.
 
-2. Open the project folder.
-
-3. Double-click **index.html** or open it in any web browser.
+2.Double-click **index.html** or open it in any web browser.
 
 ## 📌 Future Improvements
 
