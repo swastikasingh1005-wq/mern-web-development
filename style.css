@@ -1,0 +1,29 @@
+div{
+    border: 2px solid black;
+    text-align: center ;
+    margin-top: 50px;
+    margin: 250px;
+    padding: 20px;
+    width:25%from right ,left;
+    height:25% from left,right ;
+
+}
+hr{
+   text-align: center;
+    border: 5px solid black;
+}
+
+img{
+    text-align: centre ;
+    width: 50vw;
+    height: 50vh;
+    padding: 20px;
+}
+button{
+    background-color: rgb(133, 140, 40);
+    color: rgb(23, 9, 9);
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
