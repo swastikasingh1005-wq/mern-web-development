@@ -2,10 +2,10 @@ div{
     border: 2px solid black;
     text-align: center ;
     margin-top: 50px;
-    margin: 250px;
-    padding: 20px;
-    width:25%from right ,left;
-    height:25% from left,right ;
+    margin : 250px;
+    padding : 20px;
+    width:25%;
+    height:25%  ;
 
 }
 hr{
